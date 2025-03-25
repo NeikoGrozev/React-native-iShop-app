@@ -1,0 +1,20 @@
+export const colors = {
+    mediumturquoise: '#48d1cc',
+    azure: '#f0ffff',
+    snow: '#fffafa',
+    beige: '#f5f5dc',
+    seashell: '#fff5ee',
+    paleturquoise: '#afeeee',
+    gold: '#ffd700',
+    deepskyblue: '#00bfff',
+    gainsboro: '#dcdcdc',
+    honeydew: '#f0fff0',
+    black: '#000000',
+    dimgray: '#696969',
+    royalblue: '#4169e1',
+    lightskyblue: '#87cefa',
+    darkgrey: '#a9a9a9',
+    red: '#ff0000',
+    white: '#ffffff',
+    gradientButtonColors: ['#EFE2AF', '#EDDFA6', '#E7D384', '#E0C762', '#D9BB41']
+};

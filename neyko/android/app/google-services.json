@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "789751882405",
+    "project_id": "react-native-campus-d7f13",
+    "storage_bucket": "react-native-campus-d7f13.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:789751882405:android:21a8ea03725402518e634c",
+        "android_client_info": {
+          "package_name": "com.neyko"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGmneuWW0mbQ00FZqI0yi_BlLpy01rf50"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
